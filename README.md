@@ -37,12 +37,12 @@ Recently, I contributed to Apache DolphinScheduler, where my pull request passed
 ---
 
 ## 🧩 OPEN SOURCE CONTRIBUTIONS
+### Contributed to:
+  - Apache DolphinScheduler
+  - Apache Shiro
+  - Apache DataFusion
 
-### Apache DolphinScheduler
-- Removed inactive Slack references from README files
-- Updated Community sections in English and Chinese documentation
-- Contributed via a fully reviewed Pull Request
-
+#####  Contributions include documentation updates, UX improvements, and bug fixes.
 ---
 
 ## 📌 PROJECTS
