@@ -45,16 +45,29 @@ Recently, I contributed to Apache DolphinScheduler, where my pull request passed
 #####  Contributions include documentation updates, UX improvements, and bug fixes.
 ---
 
-## 📌 PROJECTS
+## 📌 Projects
 
-### URL Shortener (Java)
-A simple URL shortening system using HashMap and CLI-based input.
+### 🏦 Banking Program (Java)
+A console-based banking application built using core Java.
 
-### Tic Tac Toe (Java)
-Console-based game built using core Java logic.
+**Features**
+- Check balance
+- Deposit money
+- Withdraw money
+- Menu-driven interface
+- Input validation
 
-### CGPA Calculator (Java)
-Utility program to calculate CGPA based on grades and credits.
+---
+
+### 🎰 Slot Machine Game (Java)
+A console-based slot machine game using random symbol generation and payout logic.
+
+**Features**
+- Enter initial balance
+- Place bets
+- Random slot spins
+- Multiple payout multipliers
+- Balance tracking
 
 ---
 
