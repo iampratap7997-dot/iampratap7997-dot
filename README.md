@@ -84,7 +84,7 @@ A console-based slot machine game using random symbol generation and payout logi
 
 ## 🤝 LET’S CONNECT
 
-GitHub: https://github.com/iampratap7997  
+GitHub: https://github.com/iampratap7997-dot
 LinkedIn: https://www.linkedin.com/in/divyansh-pratap-singh-6a7a26391  
 
 ---
