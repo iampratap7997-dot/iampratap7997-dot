@@ -236,11 +236,6 @@ Always learning through **code, projects, DSA, and open source.**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 🤝 LET’S CONNECT
-
-GitHub: https://github.com/iampratap7997-dot
-LinkedIn: https://www.linkedin.com/in/divyansh-pratap-singh-6a7a26391  
-
 ---
 
 ⭐ Always open to learning, collaboration, and meaningful contributions.
